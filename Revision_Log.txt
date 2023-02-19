@@ -1,0 +1,16 @@
+1.0.0: 4/14/2020 
+ Beta Build
+2.0.0: 4/15/2020 
+ Separate windows for each calculator
+ Blue color added
+ Added mass calibrate function
+2.0.1: 4/15/2020
+ Fixed mass calibrate formula (added "target" variable)
+2.0.2: 4/15/2020
+ Fixed mass calibrate function: "target" variable now a float
+2.0.3: 4/17/2020
+ Added themes and color options
+ Added help windows for each calculator
+2.0.4: 4/21/2020
+ Added "Return" key functionality to each calculator for submission
+ Added "Back" buttons 
